@@ -34,10 +34,12 @@ Step 6: Test the network for accuracy<br>
 Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
 
 <H3>PROGRAM:</H3>
+
 ```
 Developed by: POOJA A
 Register No: 212222240072
 ```
+
 ```python
 
 import numpy as np
@@ -112,9 +114,12 @@ print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 ```
 
+
 <H3>OUTPUT:</H3>
 
 ![image](https://github.com/poojaanbu0/Ex-5--NN/assets/119390329/0535ad97-bf60-47c4-8eaa-bcf3a2c1ede4)
+
+
 
 
 <H3>Result:</H3>
